@@ -1,2 +1,2 @@
 # UNP-Classification
-This repository consists analysis of predicting the quality of red wine using machine learning
+This repository consists analysis of predicting the quality of red wine using machine learning. The red wine dataset typically refers to a dataset specially focused on red wine, providing information on attributes like types of acids, sulfur, pH, alcohol, quality. Such datasets are often utilized for analysis and modeling in the field of Data Science. There are 1599 rows and 12 columns present in the dataset. There are no missing values or the null values in the dataset.    
